@@ -1,16 +1,28 @@
-### Hi there 👋
+# pashamray
 
-<!--
-**pashamray/pashamray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Personal knowledge base and project notes powered by [Zensical](https://zensical.org/) with Material theme.
 
-Here are some ideas to get you started:
+## Prerequisites
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python 3.14+
+- [uv](https://docs.astral.sh/uv/)
+
+## Getting started
+
+Install dependencies:
+
+```bash
+uv sync
+```
+
+Run local dev server:
+
+```bash
+uv run zensical serve
+```
+
+Build the site:
+
+```bash
+uv run zensical build
+```

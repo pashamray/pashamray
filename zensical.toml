@@ -1,0 +1,7 @@
+[project]
+site_name = "pashamray"
+site_url = "https://pashamray.github.io/pashamray/"
+docs_dir = "content"
+
+[project.theme]
+variant = "classic"
