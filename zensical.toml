@@ -2,6 +2,63 @@
 site_name = "pashamray"
 site_url = "https://pashamray.github.io/pashamray/"
 docs_dir = "content"
+nav = [
+  {"Home" = "index.md"},
+  {"Links" = "links.md"},
+  {"Posts" = [
+    {"Electronics" = [
+      "posts/electronics/counter/dsmr-read-on-orangepi/index.md",
+      "posts/electronics/counter/read-landis-e360-values-dsmr/index.md",
+      "posts/electronics/orangepi-rv2/dimensions/index.md",
+      "posts/electronics/stm32/stm32g4xx-project-template/index.md",
+    ]},
+    {"Logging" = [
+      "posts/logging/monolog-graylog-sentry/index.md",
+    ]},
+    {"Proxy" = [
+      "posts/proxy/toxiproxy/index.md",
+    ]},
+    {"Web" = [
+      "posts/web/php/docs/index.md",
+      "posts/web/php/laravel/schedule/every-second/index.md",
+      "posts/web/underscore_headers/index.md",
+    ]},
+  ]},
+  {"Gists" = [
+    {"Date and time" = [
+      "gists/date_and_time/timezones/convert.md",
+      "gists/date_and_time/timezones/ntp.md",
+    ]},
+    {"Docker" = [
+      "gists/docker/get-ip-container.md",
+      "gists/docker/resource-statistic.md",
+    ]},
+    {"SQL" = [
+      "gists/sql/check_foreign_keys.md",
+    ]},
+    {"SSH" = [
+      "gists/ssh/keys.md",
+      "gists/ssh/port-forwarding.md",
+    ]},
+    {"Web" = [
+      "gists/web/wget/download-site.md",
+    ]},
+  ]},
+  {"Projects" = [
+    {"3D Print" = [
+      "projects/3d-print/cosmetic-bag/index.md",
+      "projects/3d-print/kitchen-hood-adapter/index.md",
+      "projects/3d-print/s100-cam-light-wall-adapter/index.md",
+    ]},
+    {"Electronics" = [
+      "projects/electronics/lamp/index.md",
+      "projects/electronics/opentherm/brink-renovent-hr/index.md",
+      "projects/electronics/resistive-screen-emulator/index.md",
+      "projects/electronics/SG-420M/index.md",
+      "projects/electronics/usb_to_uart/index.md",
+    ]},
+  ]},
+]
 
 [project.theme]
 variant = "classic"

@@ -24,6 +24,9 @@ tags: ["electronics", "SG-420M", "generator", "leoniv", "tda1543", "atmega8"]
 #### Автор конструкций генератора и базовой прошивки
 
 Ридико Леонид Иванович
-* http://www.leoniv.diod.club
-* http://leoniv.livejournal.com
-* wubblick@yahoo.com
+
+  - http://www.leoniv.diod.club
+ 
+  - http://leoniv.livejournal.com
+
+  - wubblick@yahoo.com
