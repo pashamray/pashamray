@@ -2,6 +2,7 @@
 site_name = "pashamray"
 site_url = "https://pashamray.github.io/pashamray/"
 docs_dir = "content"
+repo_url = "https://github.com/pashamray/pashamray"
 nav = [
   {"Home" = "index.md"},
   {"Links" = "links.md"},
