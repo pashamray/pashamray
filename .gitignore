@@ -1,5 +1,6 @@
 .venv/
 .cache/
 site/
+.idea/
 .claude/
 CLAUDE.md
