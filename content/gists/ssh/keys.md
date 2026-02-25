@@ -1,12 +1,10 @@
-+++
-title = "generate ssh keys"
-date = 2023-03-13T20:34:28+01:00
-authors = ["pashamray"]
-description = "генерация и корипование ssh ключей"
-tags = ["ssh", "keys"]
-draft=false
-+++
-
+---
+title: "generate ssh keys"
+date: 2023-03-13T20:34:28+01:00
+authors: ["pashamray"]
+description: "генерация и корипование ssh ключей"
+tags: ["ssh", "keys"]
+---
 Генерируем ключ
 ```shell
 ssh-keygen -t ed25519 -b 4096 -C "name@example.com" -f ~/.ssh/my_key

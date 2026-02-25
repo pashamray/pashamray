@@ -1,12 +1,10 @@
-+++
-title = "ssh ports forwarding"
-date = 2024-03-06T11:22:28+01:00
-authors = ["pashamray"]
-description = "ssh port forwarding"
-tags = ["ssh", "ports", "forwarding"]
-draft=false
-+++
-
+---
+title: "ssh ports forwarding"
+date: 2024-03-06T11:22:28+01:00
+authors: ["pashamray"]
+description: "ssh port forwarding"
+tags: ["ssh", "ports", "forwarding"]
+---
 # Port forwarding
 
 nginx config

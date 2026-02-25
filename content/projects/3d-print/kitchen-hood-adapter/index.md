@@ -1,14 +1,10 @@
-+++
-
-title = "Kitchen hood adapter"
-date = 2025-05-31T19:28:28+01:00
-authors = ["pashamray"]
-description = "Kitchen hood adapter"
-tags = ["3d print", "adapter", "hood", "kitchen"]
-draft = false
-
-+++
-
+---
+title: "Kitchen hood adapter"
+date: 2025-05-31T19:28:28+01:00
+authors: ["pashamray"]
+description: "Kitchen hood adapter"
+tags: ["3d print", "adapter", "hood", "kitchen"]
+---
 # Adapter for kitchen hood BTC9740SS-EU
 
 https://github.com/pashamray/kitchen-hood-adapter-btc9740ss-eu

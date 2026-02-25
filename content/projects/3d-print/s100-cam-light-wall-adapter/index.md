@@ -1,14 +1,10 @@
-+++
-
-title = "S100 cam light wall adapter"
-date = 2025-08-23T11:23:30+01:00
-authors = ["pashamray"]
-description = "S100 cam light wall adapter"
-tags = ["3d print", "adapter", "S100", "wall", "eufy"]
-draft = false
-
-+++
-
+---
+title: "S100 cam light wall adapter"
+date: 2025-08-23T11:23:30+01:00
+authors: ["pashamray"]
+description: "S100 cam light wall adapter"
+tags: ["3d print", "adapter", "S100", "wall", "eufy"]
+---
 # Wired Wall Light Cam S100 wall adapter
 
 - https://www.eufy.com/eu-en/products/t84a1311?variant=42520803868824

@@ -1,12 +1,10 @@
-+++
-title = "dsmr-parser issue dependences on OrangePI"
-date = 2025-09-15T20:11:00+01:00
-authors = ["pashamray"]
-description = "dsmr-parser issue dependences on OrangePI"
-tags = ["OrangePI", "dsmr", "dsmr-parser", "dependences", "python", "pip"]
-draft=false
-+++
-
+---
+title: "dsmr-parser issue dependences on OrangePI"
+date: 2025-09-15T20:11:00+01:00
+authors: ["pashamray"]
+description: "dsmr-parser issue dependences on OrangePI"
+tags: ["OrangePI", "dsmr", "dsmr-parser", "dependences", "python", "pip"]
+---
 ## Library
 
 https://github.com/ndokter/dsmr_parser

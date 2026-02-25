@@ -1,12 +1,10 @@
-+++
-title = "links"
-date = 2023-03-13T20:50:28+01:00
-authors = ["pashamray"]
-description = "links"
-tags = ["links", "sites"]
-draft=false
-+++
-
+---
+title: "links"
+date: 2023-03-13T20:50:28+01:00
+authors: ["pashamray"]
+description: "links"
+tags: ["links", "sites"]
+---
 - notes
   - https://github.com/arturpanteleev/backendinterview
   - https://github.com/piotrplenik/clean-code-php

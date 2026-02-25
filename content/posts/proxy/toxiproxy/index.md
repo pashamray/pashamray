@@ -1,17 +1,10 @@
-+++
-
-title = "имитация сетевых проблем"
-
-date = 2023-03-05T18:52:28+01:00
-
-authors = ["pashamray"]
-
-description = "toxiproxy"
-
-tags = ["proxy", "toxiproxy", "docker", "PHP"]
-
-+++
-
+---
+title: "имитация сетевых проблем"
+date: 2023-03-05T18:52:28+01:00
+authors: ["pashamray"]
+description: "toxiproxy"
+tags: ["proxy", "toxiproxy", "docker", "PHP"]
+---
 > Только дурак нуждается в порядке — гений господствует над хаосом
 >
 > -- <cite>Albert Einstein</cite>

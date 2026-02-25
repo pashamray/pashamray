@@ -1,14 +1,10 @@
-+++
-
-title = "underscore headers"
-date = 2023-03-04T21:07:28+01:00
-authors = ["pashamray"]
-description = "underscore headers"
-tags = ["nginx", "apache", "headers"]
-draft = false
-
-+++
-
+---
+title: "underscore headers"
+date: 2023-03-04T21:07:28+01:00
+authors: ["pashamray"]
+description: "underscore headers"
+tags: ["nginx", "apache", "headers"]
+---
 Веб сервера, такие как NGINX и Apache отбрасывают заголовки которые содержат в своем имени `_` (подчеркивание).
 
 В документаций NGINX написано следующее:

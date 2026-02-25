@@ -1,14 +1,10 @@
-+++
-
-title = "lamp" 
-date = 2023-12-18T19:28:28+01:00 
-authors = ["pashamray"] 
-description = "USB to UART module" 
-tags = ["electronics", "CP2102", "USB", "UART", "USB to UART"] 
-draft = true
-
-+++
-
+---
+title: "lamp"
+date: 2023-12-18T19:28:28+01:00
+authors: ["pashamray"]
+description: "USB to UART module"
+tags: ["electronics", "CP2102", "USB", "UART", "USB to UART"]
+---
 ```bash
 git clone https://github.com/openshwprojects/OpenBK7231T_App
 ```

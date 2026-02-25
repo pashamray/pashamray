@@ -1,12 +1,8 @@
-+++
-
-title = 'Check end enable ntp'
-date = '2023-11-28T18:12:00+01:00'
-tags = ["ntp", "time", "synchronization", "datetime"]
-draft = true
-
-+++
-
+---
+title: "Check end enable ntp"
+date: "2023-11-28T18:12:00+01:00"
+tags: ["ntp", "time", "synchronization", "datetime"]
+---
 # Check and enable ntp
 
 #### check status synchronization

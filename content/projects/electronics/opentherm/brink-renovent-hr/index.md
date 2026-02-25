@@ -1,14 +1,10 @@
-+++
-
-title = "ESP32 + OpenTherm + Brink Renovent HR Medium"
-date = 2025-01-22T21:07:28+01:00
-authors = ["pashamray"]
-description = "ESP32 + OpenTherm + Brink Renovent HR Medium"
-tags = ["esp32", "Arduino", "OpenTherm", "Brink", "Renovent", "Brink Renovent HR"]
-draft = false
-
-+++
-
+---
+title: "ESP32 + OpenTherm + Brink Renovent HR Medium"
+date: 2025-01-22T21:07:28+01:00
+authors: ["pashamray"]
+description: "ESP32 + OpenTherm + Brink Renovent HR Medium"
+tags: ["esp32", "Arduino", "OpenTherm", "Brink", "Renovent", "Brink Renovent HR"]
+---
 https://github.com/pashamray/brink-opentherm-controller
 
 ### Intro

@@ -1,14 +1,10 @@
-+++
-
-title = "Download site by wget"
-date = 2024-03-11T20:07:28+01:00
-authors = ["pashamray"]
-description = "download site"
-tags = ["download", "wget", "site"]
-draft = false
-
-+++
-
+---
+title: "Download site by wget"
+date: 2024-03-11T20:07:28+01:00
+authors: ["pashamray"]
+description: "download site"
+tags: ["download", "wget", "site"]
+---
 for create a mirror site, you can use command:
 
 ```bash

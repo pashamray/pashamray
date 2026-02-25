@@ -1,12 +1,10 @@
-+++
-title = "STM32G4xx project template"
-date = 2025-08-25T20:15:00+01:00
-authors = ["pashamray"]
-description = "STM32G4xx project template"
-tags = ["STM32", "STM32G4", "nucleo", "template", "project"]
-draft=false
-+++
-
+---
+title: "STM32G4xx project template"
+date: 2025-08-25T20:15:00+01:00
+authors: ["pashamray"]
+description: "STM32G4xx project template"
+tags: ["STM32", "STM32G4", "nucleo", "template", "project"]
+---
 Repository with project template for STM32G4xx microcontrollers and nucleo G4 board
 
 ![board image](img/board.jpg)

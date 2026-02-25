@@ -1,14 +1,10 @@
-+++
-
-title = "generate php docs"
-date = 2023-03-04T21:07:28+01:00
-authors = ["pashamray"]
-description = "generate php docs"
-tags = ["php", "docs", "phpdoc", "PlantUML"]
-draft = true
-
-+++
-
+---
+title: "generate php docs"
+date: 2023-03-04T21:07:28+01:00
+authors: ["pashamray"]
+description: "generate php docs"
+tags: ["php", "docs", "phpdoc", "PlantUML"]
+---
 https://phpdoc.org/
 
 ```shell

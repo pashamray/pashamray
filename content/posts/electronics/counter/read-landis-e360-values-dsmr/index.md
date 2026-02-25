@@ -1,12 +1,10 @@
-+++
-title = "Read values from Landis + Gyr E360 SMR 5.0 by DSMR"
-date = 2025-08-31T11:55:00+01:00
-authors = ["pashamray"]
-description = "Read values from Landis Gyr E360 CDMA"
-tags = ["Landis", "E360", "dsmr", "log"]
-draft=false
-+++
-
+---
+title: "Read values from Landis + Gyr E360 SMR 5.0 by DSMR"
+date: 2025-08-31T11:55:00+01:00
+authors: ["pashamray"]
+description: "Read values from Landis Gyr E360 CDMA"
+tags: ["Landis", "E360", "dsmr", "log"]
+---
 # Hardware
 
 ## Counter

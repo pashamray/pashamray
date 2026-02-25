@@ -1,16 +1,10 @@
-+++
-
-title = "конвертирование таймзон"
-date = 2023-03-09T21:13:28+01:00
-authors = ["pashamray"]
-description = "underscore headers"
-tags = ["nginx", "apache", "headers"]
-draft = true
-
-+++
-
-
-
+---
+title: "конвертирование таймзон"
+date: 2023-03-09T21:13:28+01:00
+authors: ["pashamray"]
+description: "underscore headers"
+tags: ["nginx", "apache", "headers"]
+---
 ###### переход на летнее время
 ```sql
 SELECT CONVERT_TZ('2023-03-25 23:00:00', '+00:00', 'Europe/Kyiv'); # 2023-03-26 01:00:00
