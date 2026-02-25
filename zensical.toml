@@ -63,5 +63,6 @@ nav = [
 [project.theme]
 variant = "classic"
 features = [
+    "header.autohide"
     "navigation.footer"
 ]
