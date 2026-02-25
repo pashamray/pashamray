@@ -62,3 +62,6 @@ nav = [
 
 [project.theme]
 variant = "classic"
+features = [
+    "navigation.footer"
+]
